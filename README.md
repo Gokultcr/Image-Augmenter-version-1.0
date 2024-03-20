@@ -14,6 +14,7 @@ Image Augmentor 1.0 (Research Software) offers a wide range of features to suppo
 
 ## Getting Started
 
-To get started with Image Augmentor Research Software, simply download the software and use it as per the user handbook provided in the repository.
+To get started with Image Augmentor Research Software, simply download the software  [Image Augmentor 1.0](https://zenodo.org/records/10846056)
+  and use it as per the user handbook provided in the repository.
 
 We appreciate your interest in our software and hope it proves valuable for your research endeavors.
